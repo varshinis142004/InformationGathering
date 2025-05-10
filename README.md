@@ -29,13 +29,14 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## Ip2Location:
 ![Screenshot (237)](https://github.com/user-attachments/assets/1b8e652b-0ef8-4597-89bb-1ed26cf5b4c7)
 
-## Ping:
-![Screenshot 2024-09-25 082709](https://github.com/user-attachments/assets/dc928fda-00cd-4bfe-84cb-622f9c756ad9)
+
 
 
 ## Web Archive:
 ![Screenshot (238)](https://github.com/user-attachments/assets/eef42b99-607b-4747-a270-4a7e40171730)
 
+## Ping:
+![Screenshot 2024-09-25 082709](https://github.com/user-attachments/assets/dc928fda-00cd-4bfe-84cb-622f9c756ad9)
 
 ## Nmap:
 ![267399700-59fb81bd-00af-4ccd-a998-30e59ef82a74](https://github.com/user-attachments/assets/07b1b5be-ec9b-4571-995a-2b03fd3b2fc6)
